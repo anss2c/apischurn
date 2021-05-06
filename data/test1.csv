@@ -1,0 +1,13 @@
+id,state,account_length,area_code,international_plan,voice_mail_plan,number_vmail_messages,total_day_minutes,total_day_calls,total_day_charge,total_eve_minutes,total_eve_calls,total_eve_charge,total_night_minutes,total_night_calls,total_night_charge,total_intl_minutes,total_intl_calls,total_intl_charge,number_customer_service_calls
+1,KS,128,area_code_415,no,yes,25,265.1,110,45.07,197.4,99,16.78,244.7,91,11.01,10.0,3,2.7,1
+2,AL,118,area_code_510,yes,no,0,223.4,98,37.98,220.6,101,18.75,203.9,118,9.18,6.3,6,1.7,0
+3,IA,62,area_code_415,no,no,0,120.7,70,20.52,307.2,76,26.11,203.0,99,9.14,13.1,6,3.54,4
+4,VT,93,area_code_510,no,no,0,190.7,114,32.42,218.2,111,18.55,129.6,121,5.83,8.1,3,2.19,3
+5,NE,174,area_code_415,no,no,0,124.3,76,21.13,277.1,112,23.55,250.7,115,11.28,15.5,5,4.19,3
+6,IL,142,area_code_415,no,no,0,84.8,95,14.42,136.7,63,11.62,250.5,148,11.27,14.2,6,3.83,2
+7,LA,172,area_code_408,no,no,0,212.0,121,36.04,31.2,115,2.65,293.3,78,13.2,12.6,10,3.4,3
+8,GA,72,area_code_415,no,yes,37,220.0,80,37.4,217.3,102,18.47,152.8,71,6.88,14.7,6,3.97,3
+9,NJ,149,area_code_408,no,no,0,140.4,94,23.87,271.8,92,23.1,188.3,108,8.47,11.1,9,3.0,1
+10,ID,119,area_code_415,no,no,0,159.1,114,27.05,231.3,117,19.66,143.2,91,6.44,8.8,3,2.38,5
+11,WY,87,area_code_415,no,no,0,151.0,83,25.67,219.7,116,18.67,203.9,127,9.18,9.7,3,2.62,5
+12,WI,68,area_code_415,no,no,0,148.8,70,25.3,246.5,164,20.95,129.8,103,5.84,12.1,3,3.27,3
