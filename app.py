@@ -31,6 +31,10 @@ def predict():
     json.dumps(parsed, indent=4)
     return result
 
+@app.route('/')
+def index():
+    return "<h1>Welcome to our server !!</h1>"
+
 if __name__ == '__main__':
 
     modelpredic = joblib.load("model.pkl") # Load "model.pkl"
@@ -39,3 +43,4 @@ if __name__ == '__main__':
     print ('Model columns loaded')
 
     app.run(debug=True)
+    # app.run(threaded=True, port=5000)
